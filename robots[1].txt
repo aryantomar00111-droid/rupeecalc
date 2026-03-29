@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aryantomar00111-droid.github.io/rupeecalc/sitemap.xml
